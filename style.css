@@ -1,0 +1,9 @@
+.modal-body{
+    border: 1px solid black;
+    margin:15px;
+    height:80px;
+} 
+#modal-icon-buttons{
+    padding-left: 15px;
+
+}
